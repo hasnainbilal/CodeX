@@ -4,7 +4,7 @@ import Code from '../components/Code';
 
 const Service =  () => {
     const [data,setData]=useState(false);
-    setTimeout(()=>setData(true),2000);
+    setTimeout(()=>setData(true),1000);
 
     return (
         <React.Fragment>

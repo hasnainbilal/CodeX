@@ -6,7 +6,7 @@ import About from "./components/About";
 import Service from "./components/Service";
 import NavBar from "./components/NavBar";
 import Footer from "./components/Footer"
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 
 const App = () => {
